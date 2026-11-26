@@ -57,15 +57,15 @@ secrets handling and server configuration.
 ### 🖥️ Servers & Infrastructure
 
 ![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logoColor=white)
-<img src="https://img.shields.io/badge/Incus-E95420?style=for-the-badge&logo=linuxcontainers&logoColor=white" alt="Incus" />
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
 
 ### 🛡️ Security
 
 [![Security](https://skillicons.dev/icons?i=kali&perline=8)](https://skillicons.dev)
+<img src="security-audits.svg" alt="Security Audits" /> <img src="hardening.svg" alt="Hardening" />
 
-<img src="https://img.shields.io/badge/Security_Audits-B71C1C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security Audits" /> <img src="https://img.shields.io/badge/Hardening-37474F?style=for-the-badge&logo=linux&logoColor=white" alt="Hardening" />
+
 
 ### 🧩 Frameworks & Automation
 
