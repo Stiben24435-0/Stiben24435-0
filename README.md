@@ -57,7 +57,7 @@ secrets handling and server configuration.
 ### 🖥️ Servers & Infrastructure
 
 ![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logoColor=white)
-![Incus](https://img.shields.io/badge/Incus_%28LXC%29-E95420?style=for-the-badge&logo=linuxcontainers&logoColor=white)
+<img src="https://img.shields.io/badge/Incus-E95420?style=for-the-badge&logo=linuxcontainers&logoColor=white" alt="Incus" />
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
 
