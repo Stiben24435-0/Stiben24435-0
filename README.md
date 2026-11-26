@@ -63,7 +63,7 @@ secrets handling and server configuration.
 ### 🛡️ Security
 
 [![Security](https://skillicons.dev/icons?i=kali&perline=8)](https://skillicons.dev)
-<img src="security-audits.svg" alt="Security Audits" /> <img src="hardening.svg" alt="Hardening" />
+
 
 
 
