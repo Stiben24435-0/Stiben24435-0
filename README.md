@@ -65,8 +65,7 @@ secrets handling and server configuration.
 
 [![Security](https://skillicons.dev/icons?i=kali&perline=8)](https://skillicons.dev)
 
-![Security Audits](https://img.shields.io/badge/Security_Audits-B71C1C?style=for-the-badge&logoColor=white)
-![Hardening](https://img.shields.io/badge/Server_Hardening-37474F?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Security_Audits-B71C1C?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security Audits" /> <img src="https://img.shields.io/badge/Hardening-37474F?style=for-the-badge&logo=linux&logoColor=white" alt="Hardening" />
 
 ### 🧩 Frameworks & Automation
 
